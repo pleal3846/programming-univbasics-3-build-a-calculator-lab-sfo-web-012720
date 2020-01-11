@@ -19,9 +19,11 @@ return sum
 end
 
 def modulo(num1, num2)
-
+num2/num1 = rest 
+return rest
 end
 
 def square_root(num)
-
+math.sqrt(num) = pink
+return pink
 end
